@@ -529,7 +529,7 @@ GameObject:
   - component: {fileID: 903228695}
   - component: {fileID: 903228694}
   m_Layer: 0
-  m_Name: Flock
+  m_Name: FlockBlue
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
